@@ -1,0 +1,18 @@
+Fri, 23 Sep 2016 16:22:29 connectionpool.py INFO Starting new HTTP connection (1): login.weibo.cn
+Fri, 23 Sep 2016 16:22:30 connectionpool.py INFO Starting new HTTP connection (1): weibo.cn
+Fri, 23 Sep 2016 16:22:31 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Fri, 23 Sep 2016 16:22:32 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Fri, 23 Sep 2016 16:22:32 autoComment.py INFO E9qN6rC70	1010636870	我也看了这篇微博［为什么说房地产绑架了银行...］所以说房子必须得涨，无脑赶紧买房就是了.
+	SUCCESS
+Fri, 23 Sep 2016 16:22:32 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Fri, 23 Sep 2016 16:22:33 autoComment.py INFO E9qN6rC70	5779043278	我也看了这篇微博［为什么说房地产绑架了银行...］所以说房子必须得涨，无脑赶紧买房就是了.	check_pubSuccess
+Fri, 23 Sep 2016 16:22:33 connectionpool.py INFO Starting new HTTP connection (1): www.weibo.com
+Fri, 23 Sep 2016 16:23:30 connectionpool.py INFO Starting new HTTP connection (1): login.weibo.cn
+Fri, 23 Sep 2016 16:23:30 connectionpool.py INFO Starting new HTTP connection (1): weibo.cn
+Fri, 23 Sep 2016 16:23:31 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Fri, 23 Sep 2016 16:23:32 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Fri, 23 Sep 2016 16:23:33 autoComment.py INFO E9qN6rC70	1010636870	我也看了这篇微博［为什么说房地产绑架了银行...］说的我心惶惶的，元芳你怎么看?
+	SUCCESS
+Fri, 23 Sep 2016 16:23:33 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Fri, 23 Sep 2016 16:23:33 autoComment.py INFO E9qN6rC70	5779043278	我也看了这篇微博［为什么说房地产绑架了银行...］所以说房子必须得涨，无脑赶紧买房就是了.	check_pubSuccess
+Fri, 23 Sep 2016 16:23:33 connectionpool.py INFO Starting new HTTP connection (1): www.weibo.com

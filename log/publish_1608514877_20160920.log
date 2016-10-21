@@ -1,0 +1,62 @@
+Tue, 20 Sep 2016 17:20:32 connectionpool.py INFO Starting new HTTP connection (1): login.weibo.cn
+Tue, 20 Sep 2016 17:20:33 connectionpool.py INFO Starting new HTTP connection (1): weibo.cn
+Tue, 20 Sep 2016 17:20:34 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Tue, 20 Sep 2016 17:20:34 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Tue, 20 Sep 2016 17:20:35 autoComment.py INFO E5foBhLLg	2787412471	结婚两年多了，媳妇老怀疑我在外面有人。每次说我在外面有人的时候，我都是照照镜子，再翻翻钱包里的几十块钱，心想的是、媳妇你真的是多虑了。
+	SUCCESS
+Tue, 20 Sep 2016 17:20:35 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Tue, 20 Sep 2016 17:20:35 autoComment.py INFO E5foBhLLg	1608514877	结婚两年多了，媳妇老怀疑我在外面有人。每次说我在外面有人的时候，我都是照照镜子，再翻翻钱包里的几十块钱，心想的是、媳妇你真的是多虑了。	check_pubSuccess
+Tue, 20 Sep 2016 17:20:35 connectionpool.py INFO Starting new HTTP connection (1): s.weibo.com
+Tue, 20 Sep 2016 17:20:39 connectionpool.py INFO Starting new HTTP connection (1): d.weibo.com
+Tue, 20 Sep 2016 17:20:47 connectionpool.py INFO Starting new HTTP connection (1): weibo.com
+Tue, 20 Sep 2016 17:20:54 connectionpool.py INFO Starting new HTTP connection (1): www.weibo.com
+Tue, 20 Sep 2016 17:20:59 connectionpool.py INFO Resetting dropped connection: weibo.com
+Tue, 20 Sep 2016 17:22:04 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Tue, 20 Sep 2016 17:22:05 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Tue, 20 Sep 2016 17:22:05 autoComment.py INFO E5foBhLLg	2787412471	单身久了，随便一个女的看了你一眼，你都会觉得，她是不是喜欢我，然后，脑子中各种求爱场面，各种结婚，生子。。。等等等等的幻想，就出来啦。。。
+	SUCCESS
+Tue, 20 Sep 2016 17:22:05 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Tue, 20 Sep 2016 17:22:05 autoComment.py INFO E5foBhLLg	1608514877	结婚两年多了，媳妇老怀疑我在外面有人。每次说我在外面有人的时候，我都是照照镜子，再翻翻钱包里的几十块钱，心想的是、媳妇你真的是多虑了。	check_pubSuccess
+Tue, 20 Sep 2016 17:22:06 connectionpool.py INFO Resetting dropped connection: www.weibo.com
+Tue, 20 Sep 2016 17:22:13 connectionpool.py INFO Resetting dropped connection: weibo.com
+Tue, 20 Sep 2016 17:22:22 connectionpool.py INFO Resetting dropped connection: www.weibo.com
+Tue, 20 Sep 2016 17:22:30 connectionpool.py INFO Resetting dropped connection: d.weibo.com
+Tue, 20 Sep 2016 17:22:36 connectionpool.py INFO Resetting dropped connection: www.weibo.com
+Tue, 20 Sep 2016 17:24:43 connectionpool.py INFO Starting new HTTP connection (1): login.weibo.cn
+Tue, 20 Sep 2016 17:24:44 connectionpool.py INFO Starting new HTTP connection (1): weibo.cn
+Tue, 20 Sep 2016 17:24:56 connectionpool.py INFO Starting new HTTP connection (1): login.weibo.cn
+Tue, 20 Sep 2016 17:24:56 connectionpool.py INFO Starting new HTTP connection (1): weibo.cn
+Tue, 20 Sep 2016 17:24:56 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Tue, 20 Sep 2016 17:24:56 autoComment.py INFO 原创	2787412471	太帅啦	SUCCESS
+Tue, 20 Sep 2016 17:24:56 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Tue, 20 Sep 2016 17:24:56 autoComment.py INFO 原创	1608514877	NULL	check_pubFailed
+Tue, 20 Sep 2016 17:24:56 connectionpool.py INFO Starting new HTTP connection (1): weibo.com
+Tue, 20 Sep 2016 17:25:00 connectionpool.py INFO Resetting dropped connection: weibo.com
+Tue, 20 Sep 2016 17:27:10 connectionpool.py INFO Starting new HTTP connection (1): login.weibo.cn
+Tue, 20 Sep 2016 17:27:11 connectionpool.py INFO Starting new HTTP connection (1): weibo.cn
+Tue, 20 Sep 2016 17:27:12 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Tue, 20 Sep 2016 17:27:13 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Tue, 20 Sep 2016 17:27:13 autoComment.py INFO E8OJsAXNo	1348670357	联合早报	SUCCESS
+Tue, 20 Sep 2016 17:27:13 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Tue, 20 Sep 2016 17:27:14 autoComment.py INFO E8OJsAXNo	1608514877	联合早报	check_pubSuccess
+Tue, 20 Sep 2016 17:27:14 connectionpool.py INFO Starting new HTTP connection (1): weibo.com
+Tue, 20 Sep 2016 17:27:31 connectionpool.py INFO Resetting dropped connection: weibo.com
+Tue, 20 Sep 2016 17:27:34 connectionpool.py INFO Starting new HTTP connection (1): d.weibo.com
+Tue, 20 Sep 2016 17:27:41 connectionpool.py INFO Resetting dropped connection: d.weibo.com
+Tue, 20 Sep 2016 17:27:54 connectionpool.py INFO Resetting dropped connection: weibo.com
+Tue, 20 Sep 2016 17:29:37 connectionpool.py INFO Starting new HTTP connection (1): login.weibo.cn
+Tue, 20 Sep 2016 17:29:38 connectionpool.py INFO Starting new HTTP connection (1): weibo.cn
+Tue, 20 Sep 2016 17:29:39 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Tue, 20 Sep 2016 17:29:39 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Tue, 20 Sep 2016 17:29:39 autoComment.py INFO E8OJsAXNo	1348670357	NULL	SUCCESS
+Tue, 20 Sep 2016 17:29:39 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Tue, 20 Sep 2016 17:29:40 autoComment.py INFO E8OJsAXNo	1608514877	联合早报	check_pubSuccess
+Tue, 20 Sep 2016 17:29:40 connectionpool.py INFO Starting new HTTP connection (1): www.weibo.com
+Tue, 20 Sep 2016 17:30:29 connectionpool.py INFO Starting new HTTP connection (1): login.weibo.cn
+Tue, 20 Sep 2016 17:30:29 connectionpool.py INFO Starting new HTTP connection (1): weibo.cn
+Tue, 20 Sep 2016 17:30:29 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Tue, 20 Sep 2016 17:30:30 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Tue, 20 Sep 2016 17:30:30 autoComment.py INFO E8OJsAXNo	1348670357	像蝼蚁，是吧。	SUCCESS
+Tue, 20 Sep 2016 17:30:30 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Tue, 20 Sep 2016 17:30:30 autoComment.py INFO E8OJsAXNo	1608514877	联合早报	check_pubSuccess
+Tue, 20 Sep 2016 17:30:31 connectionpool.py INFO Starting new HTTP connection (1): www.weibo.com

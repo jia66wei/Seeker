@@ -1,0 +1,25 @@
+Mon, 10 Oct 2016 17:50:01 connectionpool.py INFO Starting new HTTP connection (1): login.weibo.cn
+Mon, 10 Oct 2016 17:50:02 connectionpool.py INFO Starting new HTTP connection (1): weibo.cn
+Mon, 10 Oct 2016 17:50:03 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Mon, 10 Oct 2016 17:50:03 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Mon, 10 Oct 2016 17:50:03 autoComment.py INFO E71L3zjDw	1001876014	我也看了‘人民日报’发的[楼市一夜变天!……]博文,天气说变就变,站岗的节奏啊,该如何是好?
+	SUCCESS
+Mon, 10 Oct 2016 17:50:03 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Mon, 10 Oct 2016 17:50:04 autoComment.py INFO E71L3zjDw	5779043278	瞎说，山东人可温柔了	check_pubSuccess
+Mon, 10 Oct 2016 17:50:04 connectionpool.py INFO Starting new HTTP connection (1): www.weibo.com
+Mon, 10 Oct 2016 17:51:10 connectionpool.py INFO Starting new HTTP connection (1): login.weibo.cn
+Mon, 10 Oct 2016 17:51:11 connectionpool.py INFO Starting new HTTP connection (1): weibo.cn
+Mon, 10 Oct 2016 17:51:11 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Mon, 10 Oct 2016 17:51:12 autoComment.py INFO E71L3zjDw	1001876014	我也看了‘人民日报’发的[楼市一夜变天!……]博文,天气说变就变,站岗的节奏啊,该如何是好?
+	FAILURE cannot comment, repeat content! 页面返回中...
+Mon, 10 Oct 2016 17:51:12 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Mon, 10 Oct 2016 17:51:13 autoComment.py INFO E71L3zjDw	5779043278	瞎说，山东人可温柔了	check_pubSuccess
+Mon, 10 Oct 2016 17:51:13 connectionpool.py INFO Starting new HTTP connection (1): www.weibo.com
+Mon, 10 Oct 2016 17:51:37 connectionpool.py INFO Starting new HTTP connection (1): login.weibo.cn
+Mon, 10 Oct 2016 17:51:38 connectionpool.py INFO Starting new HTTP connection (1): weibo.cn
+Mon, 10 Oct 2016 17:51:38 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Mon, 10 Oct 2016 17:51:39 autoComment.py INFO E71L3zjDw	1001876014	我也看了‘人民日报’发的[楼市一夜变天!……]博文,天气说变就变,站岗的节奏啊,该如何是好?
+	FAILURE cannot comment, repeat content! 页面返回中...
+Mon, 10 Oct 2016 17:51:39 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Mon, 10 Oct 2016 17:51:39 autoComment.py INFO E71L3zjDw	5779043278	瞎说，山东人可温柔了	check_pubSuccess
+Mon, 10 Oct 2016 17:51:39 connectionpool.py INFO Starting new HTTP connection (1): weibo.com

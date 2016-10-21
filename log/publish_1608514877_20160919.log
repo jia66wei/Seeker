@@ -1,0 +1,97 @@
+Mon, 19 Sep 2016 18:13:49 connectionpool.py INFO Starting new HTTP connection (1): login.weibo.cn
+Mon, 19 Sep 2016 18:13:50 connectionpool.py INFO Starting new HTTP connection (1): weibo.cn
+Mon, 19 Sep 2016 18:13:50 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Mon, 19 Sep 2016 18:13:50 autoComment.py INFO E5XvUExnd	5973602557	结婚两年多了，媳妇老怀疑我在外面有人。每次说我在外面有人的时候，我都是照照镜子，再翻翻钱包里的几十块钱，心想的是、媳妇你真的是多虑了。
+	SUCCESS
+Mon, 19 Sep 2016 18:13:50 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Mon, 19 Sep 2016 18:18:19 connectionpool.py INFO Starting new HTTP connection (1): login.weibo.cn
+Mon, 19 Sep 2016 18:18:20 connectionpool.py INFO Starting new HTTP connection (1): weibo.cn
+Mon, 19 Sep 2016 18:18:20 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Mon, 19 Sep 2016 18:18:20 autoComment.py INFO E5XvUExnd	5973602557	朋友中午酒醉，手贱把手机密码改了。晚上继续喝，手机却是怎么也打不开，提示密码错误，朋友顺手就摔地上了，稀碎！我们都夸他有钱任性。第二天知道真相的我眼泪掉了下来，跟朋友手机同款，中午酒醉拿错了…
+	SUCCESS
+Mon, 19 Sep 2016 18:18:20 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Mon, 19 Sep 2016 18:18:21 autoComment.py INFO E5XvUExnd	5973602557	NULL	check_pubFailed
+Mon, 19 Sep 2016 18:18:21 connectionpool.py INFO Starting new HTTP connection (1): d.weibo.com
+Mon, 19 Sep 2016 18:18:26 connectionpool.py INFO Starting new HTTP connection (1): weibo.com
+Mon, 19 Sep 2016 18:18:34 connectionpool.py INFO Resetting dropped connection: weibo.com
+Mon, 19 Sep 2016 18:18:39 connectionpool.py INFO Resetting dropped connection: weibo.com
+Mon, 19 Sep 2016 18:18:46 connectionpool.py INFO Resetting dropped connection: d.weibo.com
+Mon, 19 Sep 2016 18:20:01 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Mon, 19 Sep 2016 18:20:02 autoComment.py INFO E604b1P0v	5974109488	防盗门钥匙忘带，开锁公司十分到了，30秒把门打开，给我要了40元，走时说了句，换把好锁吧，好点的要三到五分钟才能打开，安全点
+	SUCCESS
+Mon, 19 Sep 2016 18:20:02 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Mon, 19 Sep 2016 18:20:02 autoComment.py INFO E604b1P0v	5974109488	NULL	check_pubFailed
+Mon, 19 Sep 2016 18:20:02 connectionpool.py INFO Resetting dropped connection: d.weibo.com
+Mon, 19 Sep 2016 18:20:09 connectionpool.py INFO Resetting dropped connection: d.weibo.com
+Mon, 19 Sep 2016 18:20:13 connectionpool.py INFO Starting new HTTP connection (1): www.weibo.com
+Mon, 19 Sep 2016 18:20:22 connectionpool.py INFO Resetting dropped connection: www.weibo.com
+Mon, 19 Sep 2016 18:20:26 connectionpool.py INFO Starting new HTTP connection (1): s.weibo.com
+Mon, 19 Sep 2016 18:22:02 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Mon, 19 Sep 2016 18:22:03 autoComment.py INFO E5tedftKX	5974809772	指纹识别的最大安全漏洞是在你睡觉的时候你配偶可以偷偷拿你的手指来解锁手机，虹膜识别就没这个问题。。。 睡觉时候就算强行翻开眼帘应该也是白眼，这在产品安全性上属于一个飞跃。
+	SUCCESS
+Mon, 19 Sep 2016 18:22:03 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Mon, 19 Sep 2016 18:22:03 autoComment.py INFO E5tedftKX	5974809772	NULL	check_pubFailed
+Mon, 19 Sep 2016 18:22:03 connectionpool.py INFO Resetting dropped connection: s.weibo.com
+Mon, 19 Sep 2016 18:22:15 connectionpool.py INFO Resetting dropped connection: d.weibo.com
+Mon, 19 Sep 2016 18:22:20 connectionpool.py INFO Resetting dropped connection: weibo.com
+Mon, 19 Sep 2016 18:22:26 connectionpool.py INFO Resetting dropped connection: www.weibo.com
+Mon, 19 Sep 2016 18:22:30 connectionpool.py INFO Resetting dropped connection: www.weibo.com
+Mon, 19 Sep 2016 18:29:32 connectionpool.py INFO Starting new HTTP connection (1): login.weibo.cn
+Mon, 19 Sep 2016 18:29:33 connectionpool.py INFO Starting new HTTP connection (1): weibo.cn
+Mon, 19 Sep 2016 18:29:34 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Mon, 19 Sep 2016 18:29:35 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Mon, 19 Sep 2016 18:29:35 autoComment.py INFO E5foBhLLg	2787412471	女人买衣服总是挑来挑去，逛半天也挑不到一件合适的。我那180斤的闺蜜小醉就干脆多了！她往店门口一站，朝里面大喊一句 : “老板，看看有没我合身的衣服？”老板 : 有！小醉 : 拿来！！！
+	SUCCESS
+Mon, 19 Sep 2016 18:29:35 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Mon, 19 Sep 2016 18:29:36 autoComment.py INFO E5foBhLLg	2787412471	女人买衣服总是挑来挑去，逛半天也挑不到一件合适的。我那180斤的闺蜜小醉就干脆多了！她往店门口一站，朝里面大喊一句“老板，看看有没我合身的衣服？”老板有！小醉拿来！！！	check_pubFailed
+Mon, 19 Sep 2016 18:29:36 connectionpool.py INFO Starting new HTTP connection (1): weibo.com
+Mon, 19 Sep 2016 18:29:43 connectionpool.py INFO Starting new HTTP connection (1): www.weibo.com
+Mon, 19 Sep 2016 18:29:49 connectionpool.py INFO Starting new HTTP connection (1): s.weibo.com
+Mon, 19 Sep 2016 18:29:53 connectionpool.py INFO Resetting dropped connection: weibo.com
+Mon, 19 Sep 2016 18:32:51 connectionpool.py INFO Starting new HTTP connection (1): login.weibo.cn
+Mon, 19 Sep 2016 18:32:52 connectionpool.py INFO Starting new HTTP connection (1): weibo.cn
+Mon, 19 Sep 2016 18:32:53 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Mon, 19 Sep 2016 18:32:53 autoComment.py INFO E5foBhLLg	2787412471	女同事应邀参加一帅哥的生日派对。她从晚上8点开始化妆、试衣服，一直倒腾到11点多才出门。到了ktv，一推开门，一块蛋糕“啪”的砸脸上。
+	FAILURE cannot comment, contain advertising! 页面返回中...
+Mon, 19 Sep 2016 18:32:53 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Mon, 19 Sep 2016 18:32:53 autoComment.py INFO E5foBhLLg	2787412471	女人买衣服总是挑来挑去，逛半天也挑不到一件合适的。我那180斤的闺蜜小醉就干脆多了！她往店门口一站，朝里面大喊一句“老板，看看有没我合身的衣服？”老板有！小醉拿来！！！	check_pubFailed
+Mon, 19 Sep 2016 18:32:53 connectionpool.py INFO Starting new HTTP connection (1): www.weibo.com
+Mon, 19 Sep 2016 18:34:41 connectionpool.py INFO Starting new HTTP connection (1): login.weibo.cn
+Mon, 19 Sep 2016 18:34:42 connectionpool.py INFO Starting new HTTP connection (1): weibo.cn
+Mon, 19 Sep 2016 18:34:43 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Mon, 19 Sep 2016 18:34:43 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Mon, 19 Sep 2016 18:34:44 autoComment.py INFO E5foBhLLg	2787412471	单身久了，随便一个女的看了你一眼，你都会觉得，她是不是喜欢我，然后，脑子中各种求爱场面，各种结婚，生子。。。等等等等的幻想，就出来啦。。。
+	SUCCESS
+Mon, 19 Sep 2016 18:34:44 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Mon, 19 Sep 2016 18:34:44 autoComment.py INFO E5foBhLLg	2787412471	女人买衣服总是挑来挑去，逛半天也挑不到一件合适的。我那180斤的闺蜜小醉就干脆多了！她往店门口一站，朝里面大喊一句“老板，看看有没我合身的衣服？”老板有！小醉拿来！！！	check_pubFailed
+Mon, 19 Sep 2016 18:34:44 connectionpool.py INFO Starting new HTTP connection (1): weibo.com
+Mon, 19 Sep 2016 18:34:49 connectionpool.py INFO Starting new HTTP connection (1): www.weibo.com
+Mon, 19 Sep 2016 18:35:45 connectionpool.py INFO Starting new HTTP connection (1): login.weibo.cn
+Mon, 19 Sep 2016 18:35:46 connectionpool.py INFO Starting new HTTP connection (1): weibo.cn
+Mon, 19 Sep 2016 18:35:47 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Mon, 19 Sep 2016 18:35:47 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Mon, 19 Sep 2016 18:35:48 autoComment.py INFO E5foBhLLg	2787412471	女人买衣服总是挑来挑去，逛半天也挑不到一件合适的。我那180斤的闺蜜小醉就干脆多了！她往店门口一站，朝里面大喊一句 : “老板，看看有没我合身的衣服？”老板 : 有！小醉 : 拿来！！！
+	SUCCESS
+Mon, 19 Sep 2016 18:35:48 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Mon, 19 Sep 2016 18:35:48 autoComment.py INFO E5foBhLLg	2787412471	女人买衣服总是挑来挑去，逛半天也挑不到一件合适的。我那180斤的闺蜜小醉就干脆多了！她往店门口一站，朝里面大喊一句“老板，看看有没我合身的衣服？”老板有！小醉拿来！！！	check_pubFailed
+Mon, 19 Sep 2016 18:35:48 connectionpool.py INFO Starting new HTTP connection (1): www.weibo.com
+Mon, 19 Sep 2016 18:56:53 connectionpool.py INFO Starting new HTTP connection (1): login.weibo.cn
+Mon, 19 Sep 2016 18:56:53 connectionpool.py INFO Starting new HTTP connection (1): weibo.cn
+Mon, 19 Sep 2016 18:57:23 connectionpool.py INFO Starting new HTTP connection (1): login.weibo.cn
+Mon, 19 Sep 2016 18:57:24 connectionpool.py INFO Starting new HTTP connection (1): weibo.cn
+Mon, 19 Sep 2016 18:58:34 connectionpool.py INFO Starting new HTTP connection (1): login.weibo.cn
+Mon, 19 Sep 2016 18:58:35 connectionpool.py INFO Starting new HTTP connection (1): weibo.cn
+Mon, 19 Sep 2016 18:58:37 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Mon, 19 Sep 2016 18:58:37 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Mon, 19 Sep 2016 18:58:39 autoComment.py INFO E5foBhLLg	2787412471	朋友中午酒醉，手贱把手机密码改了。晚上继续喝，手机却是怎么也打不开，提示密码错误，朋友顺手就摔地上了，稀碎！我们都夸他有钱任性。第二天知道真相的我眼泪掉了下来，跟朋友手机同款，中午酒醉拿错了…
+	SUCCESS
+Mon, 19 Sep 2016 18:59:39 connectionpool.py INFO Starting new HTTP connection (1): login.weibo.cn
+Mon, 19 Sep 2016 18:59:41 connectionpool.py INFO Starting new HTTP connection (1): weibo.cn
+Mon, 19 Sep 2016 18:59:41 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Mon, 19 Sep 2016 18:59:42 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Mon, 19 Sep 2016 18:59:43 autoComment.py INFO E5foBhLLg	2787412471	单身久了，随便一个女的看了你一眼，你都会觉得，她是不是喜欢我，然后，脑子中各种求爱场面，各种结婚，生子。。。等等等等的幻想，就出来啦。。。
+	SUCCESS
+Mon, 19 Sep 2016 18:59:43 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Mon, 19 Sep 2016 18:59:44 autoComment.py INFO E5foBhLLg	1608514877	女人买衣服总是挑来挑去，逛半天也挑不到一件合适的。我那180斤的闺蜜小醉就干脆多了！她往店门口一站，朝里面大喊一句“老板，看看有没我合身的衣服？”老板有！小醉拿来！！！	check_pubSuccess
+Mon, 19 Sep 2016 18:59:44 connectionpool.py INFO Starting new HTTP connection (1): www.weibo.com
+Mon, 19 Sep 2016 18:59:50 connectionpool.py INFO Starting new HTTP connection (1): weibo.com

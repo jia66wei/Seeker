@@ -1,0 +1,16 @@
+Fri, 14 Oct 2016 17:39:49 connectionpool.py INFO Starting new HTTP connection (1): login.weibo.cn
+Fri, 14 Oct 2016 17:39:50 connectionpool.py INFO Starting new HTTP connection (1): weibo.cn
+Fri, 14 Oct 2016 17:39:51 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Fri, 14 Oct 2016 17:39:51 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Fri, 14 Oct 2016 17:39:51 autoPublish.py INFO publish mblog:null-sleep_time:2
+Fri, 14 Oct 2016 17:39:51 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Fri, 14 Oct 2016 17:39:53 autoPublish.py INFO publish mblog:null-sleep_time:2
+Fri, 14 Oct 2016 18:01:50 connectionpool.py INFO Starting new HTTP connection (1): login.weibo.cn
+Fri, 14 Oct 2016 18:01:51 connectionpool.py INFO Starting new HTTP connection (1): weibo.cn
+Fri, 14 Oct 2016 18:03:41 connectionpool.py INFO Starting new HTTP connection (1): login.weibo.cn
+Fri, 14 Oct 2016 18:03:42 connectionpool.py INFO Starting new HTTP connection (1): weibo.cn
+Fri, 14 Oct 2016 18:04:39 connectionpool.py INFO Starting new HTTP connection (1): login.weibo.cn
+Fri, 14 Oct 2016 18:04:40 connectionpool.py INFO Starting new HTTP connection (1): weibo.cn
+Fri, 14 Oct 2016 18:04:40 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Fri, 14 Oct 2016 18:04:41 connectionpool.py INFO Resetting dropped connection: weibo.cn
+Fri, 14 Oct 2016 18:04:41 autoRepost.py INFO publish mblog:good-sleep_time:2

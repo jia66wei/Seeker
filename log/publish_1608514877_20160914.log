@@ -1,0 +1,55 @@
+Wed, 14 Sep 2016 15:31:56 connectionpool.py[line:213] INFO Starting new HTTP connection (1): login.weibo.cn
+Wed, 14 Sep 2016 15:31:58 connectionpool.py[line:213] INFO Starting new HTTP connection (1): weibo.cn
+Wed, 14 Sep 2016 15:33:12 connectionpool.py[line:213] INFO Starting new HTTP connection (1): login.weibo.cn
+Wed, 14 Sep 2016 15:33:13 connectionpool.py[line:213] INFO Starting new HTTP connection (1): weibo.cn
+Wed, 14 Sep 2016 15:34:15 connectionpool.py[line:213] INFO Starting new HTTP connection (1): login.weibo.cn
+Wed, 14 Sep 2016 15:34:15 connectionpool.py[line:213] INFO Starting new HTTP connection (1): weibo.cn
+Wed, 14 Sep 2016 15:38:15 connectionpool.py[line:213] INFO Starting new HTTP connection (1): login.weibo.cn
+Wed, 14 Sep 2016 15:38:15 connectionpool.py[line:213] INFO Starting new HTTP connection (1): weibo.cn
+Wed, 14 Sep 2016 15:38:17 connectionpool.py[line:248] INFO Resetting dropped connection: weibo.cn
+Wed, 14 Sep 2016 15:38:18 autoComment.py[line:119] INFO E5XvUExnd	5973602557	古代真好，承受太多压力就会成妖，成魔，成神。而现代，承受太多就会成神经病
+	SUCCESS
+Wed, 14 Sep 2016 15:47:42 connectionpool.py[line:213] INFO Starting new HTTP connection (1): login.weibo.cn
+Wed, 14 Sep 2016 15:47:43 connectionpool.py[line:213] INFO Starting new HTTP connection (1): weibo.cn
+Wed, 14 Sep 2016 15:47:44 connectionpool.py[line:248] INFO Resetting dropped connection: weibo.cn
+Wed, 14 Sep 2016 15:47:44 autoComment.py[line:119] INFO E5XvUExnd	5973602557	猎头：您好，我这里有个岗位适合您，想换工作吗？我：暂时不考虑猎头: 您有讨厌的领导吗，把他联系方式给我，我帮你把他挖走
+	SUCCESS
+Wed, 14 Sep 2016 15:47:44 connectionpool.py[line:213] INFO Starting new HTTP connection (1): www.weibo.com
+Wed, 14 Sep 2016 15:47:52 connectionpool.py[line:213] INFO Starting new HTTP connection (1): d.weibo.com
+Wed, 14 Sep 2016 15:47:59 connectionpool.py[line:248] INFO Resetting dropped connection: www.weibo.com
+Wed, 14 Sep 2016 15:48:04 connectionpool.py[line:213] INFO Starting new HTTP connection (1): weibo.com
+Wed, 14 Sep 2016 15:48:11 connectionpool.py[line:248] INFO Resetting dropped connection: d.weibo.com
+Wed, 14 Sep 2016 15:48:59 connectionpool.py[line:248] INFO Resetting dropped connection: weibo.cn
+Wed, 14 Sep 2016 15:48:59 autoComment.py[line:119] INFO E604b1P0v	5974109488	对于大学男生，我想说，家里没钱就好好学习，不要谈恋爱： 遇到铺张浪费的女生，她花完自己的就花你的； 遇到节俭持家的女生，她不花自己的直接花你的。
+	SUCCESS
+Wed, 14 Sep 2016 15:48:59 connectionpool.py[line:248] INFO Resetting dropped connection: weibo.com
+Wed, 14 Sep 2016 15:49:03 connectionpool.py[line:248] INFO Resetting dropped connection: d.weibo.com
+Wed, 14 Sep 2016 15:49:18 connectionpool.py[line:248] INFO Resetting dropped connection: d.weibo.com
+Wed, 14 Sep 2016 15:49:24 connectionpool.py[line:248] INFO Resetting dropped connection: weibo.com
+Wed, 14 Sep 2016 15:49:29 connectionpool.py[line:248] INFO Resetting dropped connection: weibo.com
+Wed, 14 Sep 2016 15:50:37 connectionpool.py[line:248] INFO Resetting dropped connection: weibo.cn
+Wed, 14 Sep 2016 15:50:38 autoComment.py[line:119] INFO E5tedftKX	5974809772	指纹识别的最大安全漏洞是在你睡觉的时候你配偶可以偷偷拿你的手指来解锁手机，虹膜识别就没这个问题。。。 睡觉时候就算强行翻开眼帘应该也是白眼，这在产品安全性上属于一个飞跃。
+	SUCCESS
+Wed, 14 Sep 2016 15:50:38 connectionpool.py[line:248] INFO Resetting dropped connection: weibo.com
+Wed, 14 Sep 2016 15:50:43 connectionpool.py[line:248] INFO Resetting dropped connection: d.weibo.com
+Wed, 14 Sep 2016 15:50:51 connectionpool.py[line:248] INFO Resetting dropped connection: d.weibo.com
+Wed, 14 Sep 2016 15:50:58 connectionpool.py[line:248] INFO Resetting dropped connection: weibo.com
+Wed, 14 Sep 2016 15:51:03 connectionpool.py[line:248] INFO Resetting dropped connection: d.weibo.com
+Wed, 14 Sep 2016 15:51:45 connectionpool.py[line:248] INFO Resetting dropped connection: weibo.cn
+Wed, 14 Sep 2016 15:51:46 connectionpool.py[line:248] INFO Resetting dropped connection: weibo.cn
+Wed, 14 Sep 2016 15:51:46 autoComment.py[line:119] INFO E5WWEybFI	5975029900	指纹识别的最大安全漏洞是在你睡觉的时候你配偶可以偷偷拿你的手指来解锁手机，虹膜识别就没这个问题。。。 睡觉时候就算强行翻开眼帘应该也是白眼，这在产品安全性上属于一个飞跃。
+	SUCCESS
+Wed, 14 Sep 2016 15:51:46 connectionpool.py[line:248] INFO Resetting dropped connection: www.weibo.com
+Wed, 14 Sep 2016 15:51:47 connectionpool.py[line:248] INFO Resetting dropped connection: www.weibo.com
+Wed, 14 Sep 2016 15:51:52 connectionpool.py[line:248] INFO Resetting dropped connection: weibo.com
+Wed, 14 Sep 2016 15:52:05 connectionpool.py[line:248] INFO Resetting dropped connection: www.weibo.com
+Wed, 14 Sep 2016 15:52:12 connectionpool.py[line:248] INFO Resetting dropped connection: d.weibo.com
+Wed, 14 Sep 2016 15:52:18 connectionpool.py[line:213] INFO Starting new HTTP connection (1): s.weibo.com
+Wed, 14 Sep 2016 15:52:55 connectionpool.py[line:248] INFO Resetting dropped connection: weibo.cn
+Wed, 14 Sep 2016 15:52:56 autoComment.py[line:119] INFO E5k93jBSH	5975397737	女同事应邀参加一帅哥的生日派对。她从晚上8点开始化妆、试衣服，一直倒腾到11点多才出门。到了ktv，一推开门，一块蛋糕“啪”的砸脸上。
+	FAILURE cannot comment, contain advertising! 页面返回中...
+Wed, 14 Sep 2016 15:52:57 connectionpool.py[line:248] INFO Resetting dropped connection: s.weibo.com
+Wed, 14 Sep 2016 15:53:02 connectionpool.py[line:248] INFO Resetting dropped connection: weibo.com
+Wed, 14 Sep 2016 15:53:08 connectionpool.py[line:248] INFO Resetting dropped connection: www.weibo.com
+Wed, 14 Sep 2016 15:53:25 connectionpool.py[line:248] INFO Resetting dropped connection: www.weibo.com
+Wed, 14 Sep 2016 15:54:05 connectionpool.py[line:248] INFO Resetting dropped connection: weibo.com

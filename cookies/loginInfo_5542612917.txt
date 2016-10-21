@@ -1,0 +1,7 @@
+#LWP-Cookies-2.0
+Set-Cookie3: SCF="AlF9vhP4f5jZbzov90djcGrMnt1zEfezrlAA-s0B8ZZIUJB0XcgHE0IZ1fwW8M6srNVyGDTpt4XaYUhKU0Mm50s."; path="/"; domain=""; path_spec; discard; HttpOnly=None; version=0
+Set-Cookie3: SSOLoginState=1476006277; path="/"; domain=""; path_spec; discard; HttpOnly=None; version=0
+Set-Cookie3: SUB="_2A256_mHVDeTxGeNL71AX8SzFyjuIHXVWAQ-drDV8PUJbkNAKLXalkW0WzWMw8OcLxeYkuDW9ic0Do6ugww.."; path="/"; domain=""; path_spec; discard; HttpOnly=None; version=0
+Set-Cookie3: SUBP="0033WrSXqPxfM725Ws9jqgMF55529P9D9Whzb6HCVgor_Me6WF1aLlVO5JpX5oz75NHD95QfSKBESo2E1K2NWs4DqcjEBg4r9g7LxK.L1-BL1K.LxK-L12BL12-LxK-L1K5LB-qLxKML12-LB-qLxKqL1K.L1Ket"; path="/"; domain=""; path_spec; discard; HttpOnly=None; version=0
+Set-Cookie3: _T_WM=1b05974e8df5f644afd9807d6baccc2b; path="/"; domain=""; path_spec; discard; HttpOnly=None; version=0
+Set-Cookie3: gsid_CTandWM=4u33f6a21dL1ymvzg03zunfSYeN; path="/"; domain=""; path_spec; discard; HttpOnly=None; version=0
