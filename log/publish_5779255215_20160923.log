@@ -1,9 +1,0 @@
-Fri, 23 Sep 2016 15:19:42 connectionpool.py INFO Starting new HTTP connection (1): login.weibo.cn
-Fri, 23 Sep 2016 15:19:43 connectionpool.py INFO Starting new HTTP connection (1): weibo.cn
-Fri, 23 Sep 2016 15:19:44 connectionpool.py INFO Resetting dropped connection: weibo.cn
-Fri, 23 Sep 2016 15:19:44 autoComment.py INFO E9mCFFgMc 	1000162023	公积金贷款买房，只需这九步http://appsource.yixin.com/community/gjjmf/gjjmf.html
-	SUCCESS
-Fri, 23 Sep 2016 15:19:44 connectionpool.py INFO Resetting dropped connection: weibo.cn
-Fri, 23 Sep 2016 15:19:44 autoComment.py INFO E9mCFFgMc 	5779255215	NULL	check_pubFailed
-Fri, 23 Sep 2016 15:19:44 connectionpool.py INFO Starting new HTTP connection (1): weibo.com
-Fri, 23 Sep 2016 15:20:21 connectionpool.py INFO Resetting dropped connection: weibo.com

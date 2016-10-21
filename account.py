@@ -8,14 +8,6 @@ class Account():
 			username = '15010154006'
 			password = 'aixiangsui216'
 			nickname = '猪哥哥'
-		elif id == '1226710297':
-			username = '琴瑟自相邻'
-			password = '5294068'
-			nickname = '琴瑟自相邻'
-		elif id == '1810001095':
-			username = 'jia66wei@126.com'
-			password = 'zhu622588'
-			nickname = '猪哥哥'
 		elif id == '1698338365':
 			username = '715432060@qq.com'
 			password = 'wangyuanyuan520'
@@ -36,10 +28,6 @@ class Account():
 			username = 'jfb604631908695@163.com'
 			password = 'cgiluybd23541i'
 			nickname = '秋山禾婚'
-		elif id == '1608514877':
-			username = 'zhujiawei88@126.com'
-			password = '955998zhu'
-			nickname = '猪哥哥'
 		elif id == '5779047597':
 			username = 'xiyuqdp19xf@163.com'
 			password = '1jjzgj6foe'
@@ -113,10 +101,6 @@ class Account():
 			username = 'ymdpnvun37542@163.com'
 			password = 'sxbgmq7348y'
 			nickname = 'NICKNAME'
-		elif id == '2785769680':
-			username = '763148159@qq.com'
-			password = '123456@123456'
-			nickname = 'zhaimin'
 
 		return username, password, nickname
 

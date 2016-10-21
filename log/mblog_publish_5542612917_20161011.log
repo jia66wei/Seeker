@@ -1,8 +1,0 @@
-Tue, 11 Oct 2016 11:37:38 connectionpool.py INFO Starting new HTTP connection (1): login.weibo.cn
-Tue, 11 Oct 2016 11:37:38 connectionpool.py INFO Starting new HTTP connection (1): login.sina.com.cn
-Tue, 11 Oct 2016 11:37:39 connectionpool.py INFO Starting new HTTP connection (1): weibo.cn
-Tue, 11 Oct 2016 11:37:39 connectionpool.py INFO Resetting dropped connection: login.sina.com.cn
-Tue, 11 Oct 2016 11:40:34 connectionpool.py INFO Starting new HTTP connection (1): login.weibo.cn
-Tue, 11 Oct 2016 11:40:35 connectionpool.py INFO Starting new HTTP connection (1): login.sina.com.cn
-Tue, 11 Oct 2016 11:40:35 connectionpool.py INFO Starting new HTTP connection (1): weibo.cn
-Tue, 11 Oct 2016 11:40:36 connectionpool.py INFO Resetting dropped connection: login.sina.com.cn
